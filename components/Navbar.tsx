@@ -14,8 +14,10 @@ const lang = [
 
 const Navbar = () => {
     return (
-        <nav className="max-w-[1440px] py-[47px] mx-auto flex justify-between">
-            <div className="left flex items-center justify-center gap-[17px] w-1/2">
+        <nav className="max-w-[1440px] py-[47px] px-[119px] mx-auto flex justify-between">
+            <div className="left flex items-center 
+            
+             gap-[17px] w-1/2">
                 <div className="logo text-[#295091] text-[28px] font-bold shadow-md p-2 rounded">
                     NAMANGANLIKLAR24
                 </div>

@@ -1,2 +1,6 @@
 export { default as Navbar } from './Navbar'
+export { default as Ad } from './Ad'
 export { default as Category } from './Category'
+export { default as CV19info } from './CV19info'
+export { default as Cards } from './Cards'
+export { default as Notifications } from './Notifications'
